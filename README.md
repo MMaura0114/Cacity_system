@@ -1,8 +1,6 @@
 # Cacity_system
 Este sistema foi desenvolvido para automatizar e organizar o controle de dígitos, cadastro de membros e prestação de contas financeiras.
 
-# tithing_system_Cacity
-
 # Prestação de Contas - Sistema Financeiro Comunitario
 
 Sistema web para gestão financeira de instituições religiosas, com cálculo automático de repasses e relatórios detalhados.
